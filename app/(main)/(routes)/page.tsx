@@ -7,6 +7,7 @@ export default function Home() {
       {/* <UserButton
 
       /> */}
+      Welcome to Gatherly !
     </div>
     
   ) 
